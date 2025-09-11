@@ -110,6 +110,7 @@ p {
     display: block;
     margin-bottom: 1em;
     font-size: 1.3rem;
+    text-align: justify;
 }
 
 em {
