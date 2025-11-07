@@ -126,6 +126,10 @@ a {
     position: relative;
 }
 
+.link {
+    cursor: pointer;
+}
+
 /* Layout ****************************** */
 
 main {
