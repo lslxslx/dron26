@@ -130,6 +130,11 @@ a {
     cursor: pointer;
 }
 
+small {
+    margin:.5em 1em;
+    display: block;
+}
+
 /* Layout ****************************** */
 
 main {
